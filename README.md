@@ -14,7 +14,7 @@ We are a team of passionate front-end developers focused on building sleek, mode
 
 ## 🔗 Live Demo
 
-👉 [**View Live on GitHub Pages**](https://coursel572.ccbp.tech/)
+👉 [**View Live on**](https://coursel572.ccbp.tech/)
 
 ---
 
